@@ -17,7 +17,6 @@
   [![Follow](https://img.shields.io/github/followers/AmjadIbrahim1?label=Follow%20Me&style=social)](https://github.com/AmjadIbrahim1)
   [![Star](https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=social)](https://github.com/AmjadIbrahim1?tab=repositories)
 
-
 </div>
 
 
@@ -68,6 +67,8 @@
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/_Dopamine_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  &emsp;
+  <a href="https://www.codewars.com/users/AmjadIbrahim1"><img src="https://www.codewars.com/users/AmjadIbrahim1/badges/large" alt="Codewars" height=40/></a>
 </div>
 
 ## <img src="https://github.com/AmjadIbrahim1/AmjadIbrahim1/blob/main/Assets/tech.gif"  height=40> Technical Skills & Tools
