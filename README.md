@@ -44,20 +44,23 @@
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=40> **Connect With Me** | Let's Build Something Amazing Together
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amjadibrahim1"  style="text-decoration: none;" target="_blank">
+  <a href="https://www.linkedin.com/in/amjad-ibrahim-5a647525a/" style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="51" alt="linkedin logo" />
   </a>
-  <a href="mailto:amjad.ibrahim@gmail.com"  style="text-decoration: none;" target="_blank">
+  <a href="mailto:amjadibrahim218@gmail.com" style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="51" alt="gmail logo" />
   </a>
-  <a href="https://www.youtube.com/@AmjadIbrahim1"  style="text-decoration: none;" target="_blank">
+  <a href="https://www.youtube.com/@MegoCode" style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="51" alt="youtube logo" />
   </a>
-  <a href="https://www.facebook.com/AmjadIbrahim1"  style="text-decoration: none;" target="_blank">
+  <a href="https://www.facebook.com/amjad.ebrahim.107092" style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="71" height="51" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/amjad__ibrahim1"  style="text-decoration: none;" target="_blank">
+  <a href="https://www.instagram.com/amjadebrahim.1/" style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="51" alt="instagram logo" />
+  </a>
+  <a href="https://www.codewars.com/users/AmjadIbrahim1" style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codewars/default.svg" width="71" height="51" alt="codewars logo" />
   </a>
 </div>
 
@@ -116,6 +119,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=222222" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000" alt="Tailwind CSS" />
 </p>
 
 
@@ -123,6 +127,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwindcss logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="15" />
@@ -134,16 +140,36 @@
 </div>
 
 
+### DevOps & Infrastructure
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000" alt="Terraform" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+</div>
+
+
 ### Development Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
   <img width="14" />
