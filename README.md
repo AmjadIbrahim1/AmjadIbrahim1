@@ -58,9 +58,6 @@
   <a href="https://www.instagram.com/amjadebrahim.1/" style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="51" alt="instagram logo" />
   </a>
-  <a href="https://www.codewars.com/users/AmjadIbrahim1" style="text-decoration: none;" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codewars/default.svg" width="71" height="51" alt="codewars logo" />
-  </a>
 </div>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" height=40> My Competitive Programming Profiles
